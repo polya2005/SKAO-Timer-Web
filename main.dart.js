@@ -84778,7 +84778,7 @@ k(a){return"Provider<"+this.a.k(0)+"> not found for "+this.b.k(0)},
 $ibY:1}
 A.JX.prototype={
 F(a){var s=null
-return new A.w_(new A.u5(new A.a6p(),s,s,s,A.aNV(),A.aML(),t.u7),s,s,new A.y4(B.Ix,"Flutter Demo",A.AS(s,A.aDU(B.a7,B.Ic),!0),s),s,t.Nd)}}
+return new A.w_(new A.u5(new A.a6p(),s,s,s,A.aNV(),A.aML(),t.u7),s,s,new A.y4(B.Ix,"SKAO Timer",A.AS(s,A.aDU(B.a7,B.Ic),!0),s),s,t.Nd)}}
 A.a6p.prototype={
 $1(a){$.iG()
 return new A.jx(new A.ij(),A.aDm(),$.ag())},
